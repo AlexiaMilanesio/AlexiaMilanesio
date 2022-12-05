@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **alexiamilanesio9@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFT6J8Vp1M/QYV3li_ZwL79tmvMKWEB5w/view?utm_content=DAFT6J8Vp1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFT6J8Vp1M/QYV3li_ZwL79tmvMKWEB5w/view?utm_content=DAFT6J8Vp1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences: [My Resume](https://www.canva.com/design/DAFT6J8Vp1M/QYV3li_ZwL79tmvMKWEB5w/view?utm_content=DAFT6J8Vp1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I love sports!**
+- ⚡ Fun fact **I love sports and I play golf!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
