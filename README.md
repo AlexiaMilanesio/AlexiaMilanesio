@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 👯 I’m looking to collaborate on **a cool project!**
+- 💻 Check out the e-commerce we made for our final Henry Bootcamp project: [Sirun Pâtisserie](https://sirunnpatisserie.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, CSS, Node, Express**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [My Resume](https://www.canva.com/design/DAFT6J8Vp1M/QYV3li_ZwL79tmvMKWEB5w/view?utm_content=DAFT6J8Vp1M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I love sports and I play golf!**
+- ⛳️ Fun fact **I love sports and I play golf!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
