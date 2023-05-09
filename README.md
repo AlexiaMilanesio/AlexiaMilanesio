@@ -150,6 +150,26 @@
         <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="SCRUM" width="40" height="40"/> 
     </a>
     &nbsp;&nbsp;
+    <a href="https://discord.com/" target="_blank" rel="noreferrer">
+        <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://slack.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://slack.com/" target="_blank" rel="noreferrer">
+        <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://render.com/" target="_blank" rel="noreferrer">
+        <img src="https://miro.medium.com/v2/resize:fit:1200/1*oUCfmjOl7p00AVgtvy4wIg.png" alt="Render" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
 </p>
 
 
