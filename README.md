@@ -170,6 +170,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> 
     </a>
     &nbsp;&nbsp;
+    <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
 </p>
 
 
