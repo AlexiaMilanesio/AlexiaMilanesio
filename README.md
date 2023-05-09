@@ -34,6 +34,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp; 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
     </a>
@@ -52,10 +56,6 @@
     &nbsp;&nbsp; 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-    </a>
-    &nbsp;&nbsp; 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
     </a>
     &nbsp;&nbsp; 
     <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
@@ -82,20 +82,20 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/> 
     </a>
     &nbsp;&nbsp; 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-    </a>
-    &nbsp;&nbsp; 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/> 
     </a>
     &nbsp;&nbsp;
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp; 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </a>
     &nbsp;&nbsp; 
     <a href="https://insomnia.rest/ " target="_blank" rel="noreferrer"> 
-        <img src="https://image.pngaaa.com/268/4842268-middle.png" alt="Insomnia" width="40" height="40"/>
+        <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia" width="40" height="40"/>
     </a>
     &nbsp;&nbsp; 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
