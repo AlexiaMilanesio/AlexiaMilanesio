@@ -163,7 +163,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://render.com/" target="_blank" rel="noreferrer">
-        <img src="https://miro.medium.com/v2/resize:fit:1200/1*oUCfmjOl7p00AVgtvy4wIg.png" alt="Render" width="40" height="40"/> 
+        <img src="https://miro.medium.com/v2/resize:fit:1200/1*oUCfmjOl7p00AVgtvy4wIg.png" alt="Render" width="80" height="40"/> 
     </a>
     &nbsp;&nbsp;
     <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
