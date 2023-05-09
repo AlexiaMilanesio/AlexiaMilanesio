@@ -138,6 +138,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/> 
     </a>
     &nbsp;&nbsp;
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://trello.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="SCRUM" width="40" height="40"/> 
+    </a>
+    &nbsp;&nbsp;
 </p>
 
 
