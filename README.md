@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Zarina Alexía Milanesio</h1>
-<h3 align="center">A passionate full stack developer from Argentina 🇦🇷 living in Italy 🇮🇹</h3>
+<h3 align="center">A passionate Full Stack Developer from Argentina 🇦🇷 living in Italy 🇮🇹</h3>
 
 <br />
 
@@ -140,6 +140,7 @@
     &nbsp;&nbsp;
 </p>
 
+<br />
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexiamilanesio&show_icons=true&locale=en&layout=compact" alt="alexiamilanesio" />
